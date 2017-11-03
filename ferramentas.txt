@@ -1,5 +1,3 @@
-teste teste
-
 Trello - Registro de tarefas
 https://trello.com/
 
@@ -8,6 +6,11 @@ https://app.moqups.com/
 
 Interessante - Atomic Design
 Atom - molecule - body - template - page
+
+Versionamento de arquivos
+Git
+https://git-scm.com
+
 
 progresso curso
 aula 4
