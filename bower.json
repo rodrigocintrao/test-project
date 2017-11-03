@@ -1,0 +1,21 @@
+{
+  "name": "test-project",
+  "homepage": "https://github.com/rodrigocintrao/test-project",
+  "authors": [
+    "rodrigo.cintrao <rodrigo.cintrao@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}

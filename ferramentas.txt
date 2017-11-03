@@ -10,7 +10,10 @@ Atom - molecule - body - template - page
 Versionamento de arquivos
 Git
 https://git-scm.com
+https://github.com
 
+Gerenciador de pacotes
+Bower
 
 progresso curso
 aula 4
