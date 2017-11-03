@@ -1,0 +1,11 @@
+1 - Quantas páginas o site deverá ter?
+
+2 - Você tem um servidor para seu site?
+
+3 - Você registrou um nome de domínio para seu site? Importante saber quem tem os dados da conta no registro.br para transferencia dos dns's.
+
+4 - Você está imaginando uma certa aparência?
+
+5 - Você tem padrões existentes, como logos e cores, que devem ser incorporados?
+
+6 - Quais são alguns outros sites da web que você gosta? O que você gosta a respeito deles?	
